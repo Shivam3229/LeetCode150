@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivam3229/LeetCode150/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Shivam3229/LeetCode150/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shivam3229/LeetCode150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivam3229/LeetCode150/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shivam3229/LeetCode150/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shivam3229/LeetCode150/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivam3229/LeetCode150/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Shivam3229/LeetCode150/tree/master/0071-simplify-path) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shivam3229/LeetCode150/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
