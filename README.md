@@ -32,10 +32,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shivam3229/LeetCode150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Shivam3229/LeetCode150/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Shivam3229/LeetCode150/tree/master/0071-simplify-path) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivam3229/LeetCode150/tree/master/0150-evaluate-reverse-polish-notation) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shivam3229/LeetCode150/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shivam3229/LeetCode150/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
