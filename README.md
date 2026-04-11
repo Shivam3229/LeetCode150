@@ -28,15 +28,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shivam3229/LeetCode150/tree/master/0162-find-peak-element) |
 | [0496-next-greater-element-i](https://github.com/Shivam3229/LeetCode150/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0503-next-greater-element-ii) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Shivam3229/LeetCode150/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shivam3229/LeetCode150/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Shivam3229/LeetCode150/tree/master/0088-merge-sorted-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Shivam3229/LeetCode150/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shivam3229/LeetCode150/tree/master/0088-merge-sorted-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Shivam3229/LeetCode150/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
@@ -78,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Shivam3229/LeetCode150/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1323-maximum-69-number](https://github.com/Shivam3229/LeetCode150/tree/master/1323-maximum-69-number) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Shivam3229/LeetCode150/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
