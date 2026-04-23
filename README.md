@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivam3229/LeetCode150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Shivam3229/LeetCode150/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1323-maximum-69-number](https://github.com/Shivam3229/LeetCode150/tree/master/1323-maximum-69-number) |
+| [1922-count-good-numbers](https://github.com/Shivam3229/LeetCode150/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Shivam3229/LeetCode150/tree/master/0394-decode-string) |
+| [1922-count-good-numbers](https://github.com/Shivam3229/LeetCode150/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
