@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam3229/LeetCode150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Shivam3229/LeetCode150/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shivam3229/LeetCode150/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Shivam3229/LeetCode150/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/Shivam3229/LeetCode150/tree/master/0394-decode-string) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Shivam3229/LeetCode150/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shivam3229/LeetCode150/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shivam3229/LeetCode150/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shivam3229/LeetCode150/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/Shivam3229/LeetCode150/tree/master/0394-decode-string) |
 | [1922-count-good-numbers](https://github.com/Shivam3229/LeetCode150/tree/master/1922-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shivam3229/LeetCode150/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
