@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Shivam3229/LeetCode150/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shivam3229/LeetCode150/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shivam3229/LeetCode150/tree/master/2104-sum-of-subarray-ranges) |
+| [2404-most-frequent-even-element](https://github.com/Shivam3229/LeetCode150/tree/master/2404-most-frequent-even-element) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shivam3229/LeetCode150/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam3229/LeetCode150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Shivam3229/LeetCode150/tree/master/0496-next-greater-element-i) |
+| [2404-most-frequent-even-element](https://github.com/Shivam3229/LeetCode150/tree/master/2404-most-frequent-even-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shivam3229/LeetCode150/tree/master/0022-generate-parentheses) |
+## Counting
+|  |
+| ------- |
+| [2404-most-frequent-even-element](https://github.com/Shivam3229/LeetCode150/tree/master/2404-most-frequent-even-element) |
 <!---LeetCode Topics End-->
