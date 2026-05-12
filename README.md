@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Shivam3229/LeetCode150/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Shivam3229/LeetCode150/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivam3229/LeetCode150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Shivam3229/LeetCode150/tree/master/0162-find-peak-element) |
 | [0496-next-greater-element-i](https://github.com/Shivam3229/LeetCode150/tree/master/0496-next-greater-element-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shivam3229/LeetCode150/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Shivam3229/LeetCode150/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0090-subsets-ii) |
 ## Counting
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shivam3229/LeetCode150/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
