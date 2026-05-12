@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivam3229/LeetCode150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Shivam3229/LeetCode150/tree/master/0162-find-peak-element) |
+| [0216-combination-sum-iii](https://github.com/Shivam3229/LeetCode150/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/Shivam3229/LeetCode150/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Shivam3229/LeetCode150/tree/master/0735-asteroid-collision) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Shivam3229/LeetCode150/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Shivam3229/LeetCode150/tree/master/0216-combination-sum-iii) |
 ## Counting
 |  |
 | ------- |
