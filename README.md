@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Shivam3229/LeetCode150/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Shivam3229/LeetCode150/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/Shivam3229/LeetCode150/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/Shivam3229/LeetCode150/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivam3229/LeetCode150/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shivam3229/LeetCode150/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Shivam3229/LeetCode150/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Shivam3229/LeetCode150/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Shivam3229/LeetCode150/tree/master/0216-combination-sum-iii) |
 ## Counting
