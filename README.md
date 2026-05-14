@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Shivam3229/LeetCode150/tree/master/2104-sum-of-subarray-ranges) |
 | [2404-most-frequent-even-element](https://github.com/Shivam3229/LeetCode150/tree/master/2404-most-frequent-even-element) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shivam3229/LeetCode150/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2784-check-if-array-is-good](https://github.com/Shivam3229/LeetCode150/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shivam3229/LeetCode150/tree/master/0088-merge-sorted-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shivam3229/LeetCode150/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2784-check-if-array-is-good](https://github.com/Shivam3229/LeetCode150/tree/master/2784-check-if-array-is-good) |
 ## String
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Shivam3229/LeetCode150/tree/master/0496-next-greater-element-i) |
 | [2404-most-frequent-even-element](https://github.com/Shivam3229/LeetCode150/tree/master/2404-most-frequent-even-element) |
+| [2784-check-if-array-is-good](https://github.com/Shivam3229/LeetCode150/tree/master/2784-check-if-array-is-good) |
 ## Sliding Window
 |  |
 | ------- |
