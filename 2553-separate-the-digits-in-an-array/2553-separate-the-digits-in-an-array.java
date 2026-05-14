@@ -1,22 +1,34 @@
 class Solution {
     public int[] separateDigits(int[] nums) {
-        List<Integer> map = new ArrayList<>();
-        for( int i=0;i<nums.length;i++)
+
+        ArrayList<Integer> list = new ArrayList<>();
+
+        for(int num : nums)
         {
-            String n = Integer.toString(nums[i]);
-            for(int j=0;j<n.length();j++)
+            int divisor = 1;
+
+            while(num / divisor >= 10)
             {
-               char ch = n.charAt(j);
-               int num = ch-'0';
-               map.add(num);
+                divisor *= 10;
             }
 
+            while(divisor > 0)
+            {
+                list.add(num / divisor);
+
+                num = num % divisor;
+
+                divisor /= 10;
+            }
         }
-        int ar[] = new int [map.size()];
-        for(int i=0;i<ar.length;i++)
+
+        int[] ans = new int[list.size()];
+
+        for(int i = 0; i < list.size(); i++)
         {
-            ar[i] = map.get(i);
+            ans[i] = list.get(i);
         }
-        return ar;
+
+        return ans;
     }
 }
