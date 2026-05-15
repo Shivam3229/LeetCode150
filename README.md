@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Shivam3229/LeetCode150/tree/master/2104-sum-of-subarray-ranges) |
 | [2404-most-frequent-even-element](https://github.com/Shivam3229/LeetCode150/tree/master/2404-most-frequent-even-element) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shivam3229/LeetCode150/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shivam3229/LeetCode150/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shivam3229/LeetCode150/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Shivam3229/LeetCode150/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Shivam3229/LeetCode150/tree/master/0496-next-greater-element-i) |
 | [2404-most-frequent-even-element](https://github.com/Shivam3229/LeetCode150/tree/master/2404-most-frequent-even-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shivam3229/LeetCode150/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2784-check-if-array-is-good](https://github.com/Shivam3229/LeetCode150/tree/master/2784-check-if-array-is-good) |
 ## Sliding Window
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam3229/LeetCode150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0219-contains-duplicate-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shivam3229/LeetCode150/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shivam3229/LeetCode150/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
