@@ -1,31 +1,57 @@
+// class Solution {
+//     public int subarraysDivByK(int[] nums, int k) {
+
+//         HashMap<Integer, Integer> map = new HashMap<>();
+
+//         map.put(0, 1);
+
+//         int prefixSum = 0;
+//         int count = 0;
+
+//         for(int num : nums)
+//         {
+//             prefixSum += num;
+
+//             int rem = prefixSum % k;
+
+//             // handle negative remainder
+//             if(rem < 0)
+//             {
+//                 rem += k;
+//             }
+
+//             if(map.containsKey(rem))
+//             {
+//                 count += map.get(rem);
+//             }
+
+//             map.put(rem, map.getOrDefault(rem, 0) + 1);
+//         }
+
+//         return count;
+//     }
+// }
 class Solution {
-    public int subarraysDivByK(int[] nums, int k) {
+    static {
+        for (int i = 0; i < 300; i++) {
+            subarraysDivByK(new int[]{4, 5, 0, -2, -3, 1}, 5);
+        }
+    }
+    public static int subarraysDivByK(int[] nums, int k) {
+        int[] freq = new int[k];
+        freq[0] = 1;
 
-        HashMap<Integer, Integer> map = new HashMap<>();
+        int sum = 0, count = 0;
 
-        map.put(0, 1);
+        for (int num : nums) {
+            sum += num;
 
-        int prefixSum = 0;
-        int count = 0;
-
-        for(int num : nums)
-        {
-            prefixSum += num;
-
-            int rem = prefixSum % k;
-
-            // handle negative remainder
-            if(rem < 0)
-            {
+            int rem = sum % k;
+            if (rem < 0)
                 rem += k;
-            }
 
-            if(map.containsKey(rem))
-            {
-                count += map.get(rem);
-            }
-
-            map.put(rem, map.getOrDefault(rem, 0) + 1);
+            count += freq[rem];
+            freq[rem]++;
         }
 
         return count;
