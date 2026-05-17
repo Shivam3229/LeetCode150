@@ -72,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shivam3229/LeetCode150/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shivam3229/LeetCode150/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Shivam3229/LeetCode150/tree/master/0071-simplify-path) |
+| [0282-expression-add-operators](https://github.com/Shivam3229/LeetCode150/tree/master/0282-expression-add-operators) |
 | [0394-decode-string](https://github.com/Shivam3229/LeetCode150/tree/master/0394-decode-string) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Shivam3229/LeetCode150/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivam3229/LeetCode150/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0282-expression-add-operators](https://github.com/Shivam3229/LeetCode150/tree/master/0282-expression-add-operators) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Shivam3229/LeetCode150/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1323-maximum-69-number](https://github.com/Shivam3229/LeetCode150/tree/master/1323-maximum-69-number) |
 | [1922-count-good-numbers](https://github.com/Shivam3229/LeetCode150/tree/master/1922-count-good-numbers) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Shivam3229/LeetCode150/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Shivam3229/LeetCode150/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Shivam3229/LeetCode150/tree/master/0282-expression-add-operators) |
 ## Counting
 |  |
 | ------- |
