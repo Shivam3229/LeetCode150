@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Shivam3229/LeetCode150/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/Shivam3229/LeetCode150/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Shivam3229/LeetCode150/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivam3229/LeetCode150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Shivam3229/LeetCode150/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/Shivam3229/LeetCode150/tree/master/0216-combination-sum-iii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shivam3229/LeetCode150/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shivam3229/LeetCode150/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Shivam3229/LeetCode150/tree/master/0118-pascals-triangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shivam3229/LeetCode150/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
 |  |
