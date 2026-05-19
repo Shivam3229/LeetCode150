@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Shivam3229/LeetCode150/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shivam3229/LeetCode150/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam3229/LeetCode150/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivam3229/LeetCode150/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shivam3229/LeetCode150/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shivam3229/LeetCode150/tree/master/2104-sum-of-subarray-ranges) |
 | [2404-most-frequent-even-element](https://github.com/Shivam3229/LeetCode150/tree/master/2404-most-frequent-even-element) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivam3229/LeetCode150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shivam3229/LeetCode150/tree/master/0162-find-peak-element) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivam3229/LeetCode150/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Monotonic Stack
 |  |
 | ------- |
