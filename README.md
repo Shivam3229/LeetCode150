@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shivam3229/LeetCode150/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Shivam3229/LeetCode150/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/Shivam3229/LeetCode150/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/Shivam3229/LeetCode150/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Shivam3229/LeetCode150/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0040-combination-sum-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Shivam3229/LeetCode150/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Shivam3229/LeetCode150/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Shivam3229/LeetCode150/tree/master/0088-merge-sorted-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shivam3229/LeetCode150/tree/master/2410-maximum-matching-of-players-with-trainers) |
