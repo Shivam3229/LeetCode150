@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shivam3229/LeetCode150/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shivam3229/LeetCode150/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Shivam3229/LeetCode150/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shivam3229/LeetCode150/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shivam3229/LeetCode150/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Shivam3229/LeetCode150/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivam3229/LeetCode150/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shivam3229/LeetCode150/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shivam3229/LeetCode150/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivam3229/LeetCode150/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivam3229/LeetCode150/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Shivam3229/LeetCode150/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivam3229/LeetCode150/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shivam3229/LeetCode150/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shivam3229/LeetCode150/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivam3229/LeetCode150/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivam3229/LeetCode150/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Shivam3229/LeetCode150/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivam3229/LeetCode150/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shivam3229/LeetCode150/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shivam3229/LeetCode150/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivam3229/LeetCode150/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivam3229/LeetCode150/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
