@@ -1,6 +1,9 @@
 class Solution {
 
-    public void order(List<List<Integer>> ans, int level, TreeNode root)
+    public void order(List<List<Integer>> ans,
+                      int level,
+                      TreeNode root,
+                      boolean leftToRight)
     {
         if(root == null)
         {
@@ -12,7 +15,7 @@ class Solution {
             ans.add(new ArrayList<>());
         }
 
-        if(level % 2 == 0)
+        if(leftToRight)
         {
             ans.get(level).add(root.val);
         }
@@ -21,16 +24,16 @@ class Solution {
             ans.get(level).add(0, root.val);
         }
 
-        order(ans, level + 1, root.left);
-        order(ans, level + 1, root.right);
-        
+        order(ans, level + 1, root.left, !leftToRight);
+
+        order(ans, level + 1, root.right, !leftToRight);
     }
 
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
 
         List<List<Integer>> ans = new ArrayList<>();
 
-        order(ans, 0, root);
+        order(ans, 0, root, true);
 
         return ans;
     }
