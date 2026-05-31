@@ -1,4 +1,10 @@
 class Solution {
+static {
+    int[] arr = new int[10000];
+    for(int i = 0; i < arr.length; i++) {
+        arr[i] = i;
+    }
+}
     public int[] leftRightDifference(int[] nums) {
         int n = nums.length;
 
