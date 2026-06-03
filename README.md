@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Shivam3229/LeetCode150/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0503-next-greater-element-ii) |
+| [0724-find-pivot-index](https://github.com/Shivam3229/LeetCode150/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Shivam3229/LeetCode150/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shivam3229/LeetCode150/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam3229/LeetCode150/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Shivam3229/LeetCode150/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam3229/LeetCode150/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivam3229/LeetCode150/tree/master/1248-count-number-of-nice-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivam3229/LeetCode150/tree/master/1991-find-the-middle-index-in-array) |
