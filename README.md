@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Shivam3229/LeetCode150/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shivam3229/LeetCode150/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam3229/LeetCode150/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shivam3229/LeetCode150/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Shivam3229/LeetCode150/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shivam3229/LeetCode150/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam3229/LeetCode150/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam3229/LeetCode150/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivam3229/LeetCode150/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivam3229/LeetCode150/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shivam3229/LeetCode150/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shivam3229/LeetCode150/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shivam3229/LeetCode150/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam3229/LeetCode150/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shivam3229/LeetCode150/tree/master/2104-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shivam3229/LeetCode150/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shivam3229/LeetCode150/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shivam3229/LeetCode150/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam3229/LeetCode150/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shivam3229/LeetCode150/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shivam3229/LeetCode150/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shivam3229/LeetCode150/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam3229/LeetCode150/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -301,4 +306,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Shivam3229/LeetCode150/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shivam3229/LeetCode150/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shivam3229/LeetCode150/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam3229/LeetCode150/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
