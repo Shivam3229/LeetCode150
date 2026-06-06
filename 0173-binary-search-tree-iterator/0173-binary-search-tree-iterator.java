@@ -13,26 +13,47 @@
  *     }
  * }
  */
-class BSTIterator {
-      private Stack<TreeNode> st = new Stack<TreeNode>();  
+//  class BSTIterator {
+//       private Stack<TreeNode> st = new Stack<TreeNode>();  
    
-    public BSTIterator(TreeNode root) { 
-       pushAll(root); 
+//     public BSTIterator(TreeNode root) { 
+//        pushAll(root); 
+//     }
+    
+//     public int next() {
+//        TreeNode temp = st.pop();
+//        pushAll(temp.right);
+//        return temp.val;
+//     }
+    
+//     public boolean hasNext() {
+//         return !st.isEmpty();
+//     }
+
+//     private void pushAll(TreeNode node)
+//     {
+// for(; node != null; st.push(node), node = node.left);    }
+// }
+class BSTIterator {
+    Queue<Integer> q;
+    public BSTIterator(TreeNode root) {
+        this.q = new LinkedList<>();
+        build(root, q);
+    }
+    public void build(TreeNode root,Queue<Integer>q)
+    {  if(root == null) return;
+        build(root.left,q);
+        q.offer(root.val);
+        build(root.right,q);
     }
     
     public int next() {
-       TreeNode temp = st.pop();
-       pushAll(temp.right);
-       return temp.val;
+        return q.poll();
     }
     
     public boolean hasNext() {
-        return !st.isEmpty();
+        return !q.isEmpty();
     }
-
-    private void pushAll(TreeNode node)
-    {
-for(; node != null; st.push(node), node = node.left);    }
 }
 
 /**
