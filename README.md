@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Shivam3229/LeetCode150/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shivam3229/LeetCode150/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam3229/LeetCode150/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shivam3229/LeetCode150/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam3229/LeetCode150/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivam3229/LeetCode150/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivam3229/LeetCode150/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam3229/LeetCode150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shivam3229/LeetCode150/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivam3229/LeetCode150/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shivam3229/LeetCode150/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivam3229/LeetCode150/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivam3229/LeetCode150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shivam3229/LeetCode150/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Shivam3229/LeetCode150/tree/master/0222-count-complete-tree-nodes) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shivam3229/LeetCode150/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivam3229/LeetCode150/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Monotonic Stack
 |  |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Shivam3229/LeetCode150/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam3229/LeetCode150/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shivam3229/LeetCode150/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivam3229/LeetCode150/tree/master/1248-count-number-of-nice-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivam3229/LeetCode150/tree/master/1991-find-the-middle-index-in-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Shivam3229/LeetCode150/tree/master/2559-count-vowel-strings-in-ranges) |
