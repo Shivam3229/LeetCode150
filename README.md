@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shivam3229/LeetCode150/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/Shivam3229/LeetCode150/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0219-contains-duplicate-ii) |
+| [0485-max-consecutive-ones](https://github.com/Shivam3229/LeetCode150/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Shivam3229/LeetCode150/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/Shivam3229/LeetCode150/tree/master/0724-find-pivot-index) |
