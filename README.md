@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Shivam3229/LeetCode150/tree/master/0071-simplify-path) |
 | [0282-expression-add-operators](https://github.com/Shivam3229/LeetCode150/tree/master/0282-expression-add-operators) |
 | [0394-decode-string](https://github.com/Shivam3229/LeetCode150/tree/master/0394-decode-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shivam3229/LeetCode150/tree/master/0424-longest-repeating-character-replacement) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Shivam3229/LeetCode150/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivam3229/LeetCode150/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Shivam3229/LeetCode150/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivam3229/LeetCode150/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shivam3229/LeetCode150/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shivam3229/LeetCode150/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Shivam3229/LeetCode150/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shivam3229/LeetCode150/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shivam3229/LeetCode150/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam3229/LeetCode150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Shivam3229/LeetCode150/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shivam3229/LeetCode150/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Shivam3229/LeetCode150/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivam3229/LeetCode150/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivam3229/LeetCode150/tree/master/1248-count-number-of-nice-subarrays) |
