@@ -1,5 +1,49 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
+<div align="center">
+
+# 🚀 Shivam's LeetCode Journey
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Solving+DSA+One+Problem+at+a+Time;Java+%7C+LeetCode+%7C+Interview+Prep;Consistency+%3E+Perfection" alt="Typing SVG" />
+
+<p>
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Platform-LeetCode-yellow?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Focus-DSA-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+</p>
+
+> **"Small daily progress compounds into interview success."**
+
+</div>
+
+---
+
+## 📌 About This Repository
+
+This repository contains my solutions to **LeetCode** problems solved in **Java**.  
+The goal is to strengthen problem-solving skills, master Data Structures & Algorithms, and prepare for software engineering interviews.
+
+### 🎯 What You'll Find
+- ✅ Clean and optimized Java solutions
+- ✅ Problems organized by topic
+- ✅ Sliding Window, DP, Trees, Graphs, Stack, Queue & more
+- ✅ Consistent practice and interview-focused learning
+
+---
+
+## 📊 Repository Highlights
+
+| Metric | Value |
+|---------|-------|
+| 💻 Language | Java |
+| 🧠 Focus | Data Structures & Algorithms |
+| 📚 Platform | LeetCode |
+| 🎯 Goal | Interview Preparation |
+| 🔄 Status | Regularly Updated |
+
+---
+
 # LeetCode Topics
 ## Stack
 |  |
@@ -363,3 +407,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Shivam3229/LeetCode150/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
+## 📊 Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/shivam0305?theme=dark&font=Baloo&ext=heatmap)
+
+## 🎯 Goal
+
+Solve and document LeetCode problems consistently while mastering core DSA concepts for software engineering interviews.
+
+---
+
+⭐ If you find this repository helpful, consider starring it.
