@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Shivam3229/LeetCode150/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Shivam3229/LeetCode150/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Shivam3229/LeetCode150/tree/master/0735-asteroid-collision) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Shivam3229/LeetCode150/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shivam3229/LeetCode150/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam3229/LeetCode150/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivam3229/LeetCode150/tree/master/1004-max-consecutive-ones-iii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shivam3229/LeetCode150/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Shivam3229/LeetCode150/tree/master/0088-merge-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shivam3229/LeetCode150/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Shivam3229/LeetCode150/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Shivam3229/LeetCode150/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shivam3229/LeetCode150/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
