@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-count-vowel-strings-in-ranges](https://github.com/Shivam3229/LeetCode150/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/Shivam3229/LeetCode150/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/Shivam3229/LeetCode150/tree/master/2784-check-if-array-is-good) |
+| [3838-weighted-word-mapping](https://github.com/Shivam3229/LeetCode150/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivam3229/LeetCode150/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivam3229/LeetCode150/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Shivam3229/LeetCode150/tree/master/2559-count-vowel-strings-in-ranges) |
+| [3838-weighted-word-mapping](https://github.com/Shivam3229/LeetCode150/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Shivam3229/LeetCode150/tree/master/0735-asteroid-collision) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shivam3229/LeetCode150/tree/master/2553-separate-the-digits-in-an-array) |
+| [3838-weighted-word-mapping](https://github.com/Shivam3229/LeetCode150/tree/master/3838-weighted-word-mapping) |
 ## Recursion
 |  |
 | ------- |
